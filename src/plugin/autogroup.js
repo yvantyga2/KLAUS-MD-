@@ -73,7 +73,7 @@ const groupSetting = async (m, gss) => {
         await gss.sendMessage(m.from, { text: 'An error occurred while updating the group setting.' });
       }
     }, {
-      timezone: "Asia/Kolkata"
+      timezone: "America/Port-au-Prince"
     });
 
     m.reply(`Group will be set to "${groupSetting}" at ${time} IST.`);
