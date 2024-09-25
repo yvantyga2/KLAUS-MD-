@@ -11,7 +11,7 @@
 <a href="https://t.me/+13472314632"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## DEVELOPED BY 𝙎-𝙏𝞢𝞜
+## DEVELOPED BY 𝙎-𝙏𝞢𝞜 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
