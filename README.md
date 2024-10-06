@@ -38,7 +38,7 @@
 
 <div align="center">
   <!-- Badges for deployment -->
-  <a href="https://youtu.be/AZg7UMMy6q8?si=_YyYGgUS1AL9oR-B" target="_blank">
+  <a href="https://youtu.be/-dh4hvUmIYI?si=QZSbT5RIHzNC7zmZ" target="_blank">
     <img src="https://img.shields.io/badge/Deployment-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Deployment" />
   </a>
   <a href="https://youtu.be/4b1HNuaQx54?si=CSRoq27E8nS0AeNA" target="_blank">
